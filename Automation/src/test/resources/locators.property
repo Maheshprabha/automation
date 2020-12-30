@@ -1,0 +1,18 @@
+loc_women = //li/a[@title='Women']
+loc_dress = //a[@title='Faded Short Sleeve T-shirts']
+loc_cart = //span[text()='Add to cart'][1]
+loc_checkout = //a[@title='Proceed to checkout']
+loc_finalcheckout = //a/span[text()='Proceed to checkout']
+loc_cotton = //h5/a[@title='Printed Chiffon Dress'][1]
+loc_table = (//tr/td)
+loc_name = //input[@id='email']
+loc_password = //input[@id='passwd']
+loc_signbutton = //button[@id='SubmitLogin']
+loc_table_column = //table//thead/tr/th
+loc_table_row = //table//tbody/tr/td/p
+loc_table_cell_name = //table//tbody/tr/td[2]/p/a
+loc_table_cell_price = //table//tbody/tr/td[6]/span
+loc_address = //button[@name='processAddress']
+loc_checkbox = //input[@type='checkbox']
+loc_delivery = //button[@name='processCarrier']
+loc_bankwire = //a[@class='bankwire']
